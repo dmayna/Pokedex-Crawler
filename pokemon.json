@@ -1,0 +1,2032 @@
+{
+    "Bulbasaur": {
+        "HP": "45",
+        "Attack": "49",
+        "Defense": "49",
+        "Sp Atk": "65",
+        "Sp. Def": "65",
+        "Speed": "45",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "0.7",
+        "Weight": "6"
+    },
+    "Ivysaur": {
+        "HP": "60",
+        "Attack": "62",
+        "Defense": "63",
+        "Sp Atk": "80",
+        "Sp. Def": "80",
+        "Speed": "60",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "1.0",
+        "Weight": "13"
+    },
+    "Venusaur": {
+        "HP": "80",
+        "Attack": "82",
+        "Defense": "83",
+        "Sp Atk": "100",
+        "Sp. Def": "100",
+        "Speed": "80",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "2.0",
+        "Weight": "100"
+    },
+    "Charmander": {
+        "HP": "39",
+        "Attack": "52",
+        "Defense": "43",
+        "Sp Atk": "60",
+        "Sp. Def": "50",
+        "Speed": "65",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "0.6",
+        "Weight": "8"
+    },
+    "Charmeleon": {
+        "HP": "58",
+        "Attack": "64",
+        "Defense": "58",
+        "Sp Atk": "80",
+        "Sp. Def": "65",
+        "Speed": "80",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "1.1",
+        "Weight": "19"
+    },
+    "Charizard": {
+        "HP": "78",
+        "Attack": "84",
+        "Defense": "78",
+        "Sp Atk": "109",
+        "Sp. Def": "85",
+        "Speed": "100",
+        "Type": [
+            "Fire",
+            "Flying"
+        ],
+        "Height": "1.7",
+        "Weight": "90"
+    },
+    "Squirtle": {
+        "HP": "44",
+        "Attack": "48",
+        "Defense": "65",
+        "Sp Atk": "50",
+        "Sp. Def": "64",
+        "Speed": "43",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.5",
+        "Weight": "9"
+    },
+    "Wartortle": {
+        "HP": "59",
+        "Attack": "63",
+        "Defense": "80",
+        "Sp Atk": "65",
+        "Sp. Def": "80",
+        "Speed": "58",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.0",
+        "Weight": "22"
+    },
+    "Blastoise": {
+        "HP": "79",
+        "Attack": "83",
+        "Defense": "100",
+        "Sp Atk": "85",
+        "Sp. Def": "105",
+        "Speed": "78",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.6",
+        "Weight": "85"
+    },
+    "Caterpie": {
+        "HP": "45",
+        "Attack": "30",
+        "Defense": "35",
+        "Sp Atk": "20",
+        "Sp. Def": "20",
+        "Speed": "45",
+        "Type": [
+            "Bug"
+        ],
+        "Height": "0.3",
+        "Weight": "2"
+    },
+    "Metapod": {
+        "HP": "50",
+        "Attack": "20",
+        "Defense": "55",
+        "Sp Atk": "25",
+        "Sp. Def": "25",
+        "Speed": "30",
+        "Type": [
+            "Bug"
+        ],
+        "Height": "0.7",
+        "Weight": "9"
+    },
+    "Butterfree": {
+        "HP": "60",
+        "Attack": "45",
+        "Defense": "50",
+        "Sp Atk": "90",
+        "Sp. Def": "80",
+        "Speed": "70",
+        "Type": [
+            "Bug",
+            "Flying"
+        ],
+        "Height": "1.1",
+        "Weight": "32"
+    },
+    "Weedle": {
+        "HP": "40",
+        "Attack": "35",
+        "Defense": "30",
+        "Sp Atk": "20",
+        "Sp. Def": "20",
+        "Speed": "50",
+        "Type": [
+            "Bug",
+            "Poison"
+        ],
+        "Height": "0.3",
+        "Weight": "3"
+    },
+    "Kakuna": {
+        "HP": "45",
+        "Attack": "25",
+        "Defense": "50",
+        "Sp Atk": "25",
+        "Sp. Def": "25",
+        "Speed": "35",
+        "Type": [
+            "Bug",
+            "Poison"
+        ],
+        "Height": "0.6",
+        "Weight": "10"
+    },
+    "Beedrill": {
+        "HP": "65",
+        "Attack": "90",
+        "Defense": "40",
+        "Sp Atk": "45",
+        "Sp. Def": "80",
+        "Speed": "75",
+        "Type": [
+            "Bug",
+            "Poison"
+        ],
+        "Height": "1.0",
+        "Weight": "29"
+    },
+    "Pidgey": {
+        "HP": "40",
+        "Attack": "45",
+        "Defense": "40",
+        "Sp Atk": "35",
+        "Sp. Def": "35",
+        "Speed": "56",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "0.3",
+        "Weight": "1"
+    },
+    "Pidgeotto": {
+        "HP": "63",
+        "Attack": "60",
+        "Defense": "55",
+        "Sp Atk": "50",
+        "Sp. Def": "50",
+        "Speed": "71",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "1.1",
+        "Weight": "30"
+    },
+    "Pidgeot": {
+        "HP": "83",
+        "Attack": "80",
+        "Defense": "75",
+        "Sp Atk": "70",
+        "Sp. Def": "70",
+        "Speed": "101",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "1.5",
+        "Weight": "39"
+    },
+    "Rattata": {
+        "HP": "30",
+        "Attack": "56",
+        "Defense": "35",
+        "Sp Atk": "25",
+        "Sp. Def": "35",
+        "Speed": "72",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "0.3",
+        "Weight": "3"
+    },
+    "Raticate": {
+        "HP": "55",
+        "Attack": "81",
+        "Defense": "60",
+        "Sp Atk": "50",
+        "Sp. Def": "70",
+        "Speed": "97",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "0.7",
+        "Weight": "18"
+    },
+    "Spearow": {
+        "HP": "40",
+        "Attack": "60",
+        "Defense": "30",
+        "Sp Atk": "31",
+        "Sp. Def": "31",
+        "Speed": "70",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "0.3",
+        "Weight": "2"
+    },
+    "Fearow": {
+        "HP": "65",
+        "Attack": "90",
+        "Defense": "65",
+        "Sp Atk": "61",
+        "Sp. Def": "61",
+        "Speed": "100",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "1.2",
+        "Weight": "38"
+    },
+    "Ekans": {
+        "HP": "35",
+        "Attack": "60",
+        "Defense": "44",
+        "Sp Atk": "40",
+        "Sp. Def": "54",
+        "Speed": "55",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "2.0",
+        "Weight": "6"
+    },
+    "Arbok": {
+        "HP": "60",
+        "Attack": "95",
+        "Defense": "69",
+        "Sp Atk": "65",
+        "Sp. Def": "79",
+        "Speed": "80",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "3.5",
+        "Weight": "65"
+    },
+    "Pikachu": {
+        "HP": "35",
+        "Attack": "55",
+        "Defense": "40",
+        "Sp Atk": "50",
+        "Sp. Def": "50",
+        "Speed": "90",
+        "Type": [
+            "Electric"
+        ],
+        "Height": "0.4",
+        "Weight": "6"
+    },
+    "Raichu": {
+        "HP": "60",
+        "Attack": "90",
+        "Defense": "55",
+        "Sp Atk": "90",
+        "Sp. Def": "80",
+        "Speed": "110",
+        "Type": [
+            "Electric"
+        ],
+        "Height": "0.8",
+        "Weight": "30"
+    },
+    "Sandshrew": {
+        "HP": "50",
+        "Attack": "75",
+        "Defense": "85",
+        "Sp Atk": "20",
+        "Sp. Def": "30",
+        "Speed": "40",
+        "Type": [
+            "Ground"
+        ],
+        "Height": "0.6",
+        "Weight": "12"
+    },
+    "Sandslash": {
+        "HP": "75",
+        "Attack": "100",
+        "Defense": "110",
+        "Sp Atk": "45",
+        "Sp. Def": "55",
+        "Speed": "65",
+        "Type": [
+            "Ground"
+        ],
+        "Height": "1.0",
+        "Weight": "29"
+    },
+    "Nidoran-f": {
+        "HP": "55",
+        "Attack": "47",
+        "Defense": "52",
+        "Sp Atk": "40",
+        "Sp. Def": "40",
+        "Speed": "41",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "0.4",
+        "Weight": "7"
+    },
+    "Nidorina": {
+        "HP": "70",
+        "Attack": "62",
+        "Defense": "67",
+        "Sp Atk": "55",
+        "Sp. Def": "55",
+        "Speed": "56",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "0.8",
+        "Weight": "20"
+    },
+    "Nidoqueen": {
+        "HP": "90",
+        "Attack": "92",
+        "Defense": "87",
+        "Sp Atk": "75",
+        "Sp. Def": "85",
+        "Speed": "76",
+        "Type": [
+            "Poison",
+            "Ground"
+        ],
+        "Height": "1.3",
+        "Weight": "60"
+    },
+    "Nidoran-m": {
+        "HP": "46",
+        "Attack": "57",
+        "Defense": "40",
+        "Sp Atk": "40",
+        "Sp. Def": "40",
+        "Speed": "50",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "0.5",
+        "Weight": "9"
+    },
+    "Nidorino": {
+        "HP": "61",
+        "Attack": "72",
+        "Defense": "57",
+        "Sp Atk": "55",
+        "Sp. Def": "55",
+        "Speed": "65",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "0.9",
+        "Weight": "19"
+    },
+    "Nidoking": {
+        "HP": "81",
+        "Attack": "102",
+        "Defense": "77",
+        "Sp Atk": "85",
+        "Sp. Def": "75",
+        "Speed": "85",
+        "Type": [
+            "Poison",
+            "Ground"
+        ],
+        "Height": "1.4",
+        "Weight": "62"
+    },
+    "Clefairy": {
+        "HP": "70",
+        "Attack": "45",
+        "Defense": "48",
+        "Sp Atk": "60",
+        "Sp. Def": "65",
+        "Speed": "35",
+        "Type": [
+            "Fairy"
+        ],
+        "Height": "0.6",
+        "Weight": "7"
+    },
+    "Clefable": {
+        "HP": "95",
+        "Attack": "70",
+        "Defense": "73",
+        "Sp Atk": "95",
+        "Sp. Def": "90",
+        "Speed": "60",
+        "Type": [
+            "Fairy"
+        ],
+        "Height": "1.3",
+        "Weight": "40"
+    },
+    "Vulpix": {
+        "HP": "38",
+        "Attack": "41",
+        "Defense": "40",
+        "Sp Atk": "50",
+        "Sp. Def": "65",
+        "Speed": "65",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "0.6",
+        "Weight": "9"
+    },
+    "Ninetales": {
+        "HP": "73",
+        "Attack": "76",
+        "Defense": "75",
+        "Sp Atk": "81",
+        "Sp. Def": "100",
+        "Speed": "100",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "1.1",
+        "Weight": "19"
+    },
+    "Jigglypuff": {
+        "HP": "115",
+        "Attack": "45",
+        "Defense": "20",
+        "Sp Atk": "45",
+        "Sp. Def": "25",
+        "Speed": "20",
+        "Type": [
+            "Normal",
+            "Fairy"
+        ],
+        "Height": "0.5",
+        "Weight": "5"
+    },
+    "Wigglytuff": {
+        "HP": "140",
+        "Attack": "70",
+        "Defense": "45",
+        "Sp Atk": "85",
+        "Sp. Def": "50",
+        "Speed": "45",
+        "Type": [
+            "Normal",
+            "Fairy"
+        ],
+        "Height": "1.0",
+        "Weight": "12"
+    },
+    "Zubat": {
+        "HP": "40",
+        "Attack": "45",
+        "Defense": "35",
+        "Sp Atk": "30",
+        "Sp. Def": "40",
+        "Speed": "55",
+        "Type": [
+            "Poison",
+            "Flying"
+        ],
+        "Height": "0.8",
+        "Weight": "7"
+    },
+    "Golbat": {
+        "HP": "75",
+        "Attack": "80",
+        "Defense": "70",
+        "Sp Atk": "65",
+        "Sp. Def": "75",
+        "Speed": "90",
+        "Type": [
+            "Poison",
+            "Flying"
+        ],
+        "Height": "1.6",
+        "Weight": "55"
+    },
+    "Oddish": {
+        "HP": "45",
+        "Attack": "50",
+        "Defense": "55",
+        "Sp Atk": "75",
+        "Sp. Def": "65",
+        "Speed": "30",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "0.5",
+        "Weight": "5"
+    },
+    "Gloom": {
+        "HP": "60",
+        "Attack": "65",
+        "Defense": "70",
+        "Sp Atk": "85",
+        "Sp. Def": "75",
+        "Speed": "40",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "0.8",
+        "Weight": "8"
+    },
+    "Vileplume": {
+        "HP": "75",
+        "Attack": "80",
+        "Defense": "85",
+        "Sp Atk": "110",
+        "Sp. Def": "90",
+        "Speed": "50",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "1.2",
+        "Weight": "18"
+    },
+    "Paras": {
+        "HP": "35",
+        "Attack": "70",
+        "Defense": "55",
+        "Sp Atk": "45",
+        "Sp. Def": "55",
+        "Speed": "25",
+        "Type": [
+            "Bug",
+            "Grass"
+        ],
+        "Height": "0.3",
+        "Weight": "5"
+    },
+    "Parasect": {
+        "HP": "60",
+        "Attack": "95",
+        "Defense": "80",
+        "Sp Atk": "60",
+        "Sp. Def": "80",
+        "Speed": "30",
+        "Type": [
+            "Bug",
+            "Grass"
+        ],
+        "Height": "1.0",
+        "Weight": "29"
+    },
+    "Venonat": {
+        "HP": "60",
+        "Attack": "55",
+        "Defense": "50",
+        "Sp Atk": "40",
+        "Sp. Def": "55",
+        "Speed": "45",
+        "Type": [
+            "Bug",
+            "Poison"
+        ],
+        "Height": "1.0",
+        "Weight": "30"
+    },
+    "Venomoth": {
+        "HP": "70",
+        "Attack": "65",
+        "Defense": "60",
+        "Sp Atk": "90",
+        "Sp. Def": "75",
+        "Speed": "90",
+        "Type": [
+            "Bug",
+            "Poison"
+        ],
+        "Height": "1.5",
+        "Weight": "12"
+    },
+    "Diglett": {
+        "HP": "10",
+        "Attack": "55",
+        "Defense": "25",
+        "Sp Atk": "35",
+        "Sp. Def": "45",
+        "Speed": "95",
+        "Type": [
+            "Ground"
+        ],
+        "Height": "0.2",
+        "Weight": "0"
+    },
+    "Dugtrio": {
+        "HP": "35",
+        "Attack": "100",
+        "Defense": "50",
+        "Sp Atk": "50",
+        "Sp. Def": "70",
+        "Speed": "120",
+        "Type": [
+            "Ground"
+        ],
+        "Height": "0.7",
+        "Weight": "33"
+    },
+    "Meowth": {
+        "HP": "40",
+        "Attack": "45",
+        "Defense": "35",
+        "Sp Atk": "40",
+        "Sp. Def": "40",
+        "Speed": "90",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "0.4",
+        "Weight": "4"
+    },
+    "Persian": {
+        "HP": "65",
+        "Attack": "70",
+        "Defense": "60",
+        "Sp Atk": "65",
+        "Sp. Def": "65",
+        "Speed": "115",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "1.0",
+        "Weight": "32"
+    },
+    "Psyduck": {
+        "HP": "50",
+        "Attack": "52",
+        "Defense": "48",
+        "Sp Atk": "65",
+        "Sp. Def": "50",
+        "Speed": "55",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.8",
+        "Weight": "19"
+    },
+    "Golduck": {
+        "HP": "80",
+        "Attack": "82",
+        "Defense": "78",
+        "Sp Atk": "95",
+        "Sp. Def": "80",
+        "Speed": "85",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.7",
+        "Weight": "76"
+    },
+    "Mankey": {
+        "HP": "40",
+        "Attack": "80",
+        "Defense": "35",
+        "Sp Atk": "35",
+        "Sp. Def": "45",
+        "Speed": "70",
+        "Type": [
+            "Fighting"
+        ],
+        "Height": "0.5",
+        "Weight": "28"
+    },
+    "Primeape": {
+        "HP": "65",
+        "Attack": "105",
+        "Defense": "60",
+        "Sp Atk": "60",
+        "Sp. Def": "70",
+        "Speed": "95",
+        "Type": [
+            "Fighting"
+        ],
+        "Height": "1.0",
+        "Weight": "32"
+    },
+    "Growlithe": {
+        "HP": "55",
+        "Attack": "70",
+        "Defense": "45",
+        "Sp Atk": "70",
+        "Sp. Def": "50",
+        "Speed": "60",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "0.7",
+        "Weight": "19"
+    },
+    "Arcanine": {
+        "HP": "90",
+        "Attack": "110",
+        "Defense": "80",
+        "Sp Atk": "100",
+        "Sp. Def": "80",
+        "Speed": "95",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "1.9",
+        "Weight": "155"
+    },
+    "Poliwag": {
+        "HP": "40",
+        "Attack": "50",
+        "Defense": "40",
+        "Sp Atk": "40",
+        "Sp. Def": "40",
+        "Speed": "90",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.6",
+        "Weight": "12"
+    },
+    "Poliwhirl": {
+        "HP": "65",
+        "Attack": "65",
+        "Defense": "65",
+        "Sp Atk": "50",
+        "Sp. Def": "50",
+        "Speed": "90",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.0",
+        "Weight": "20"
+    },
+    "Poliwrath": {
+        "HP": "90",
+        "Attack": "95",
+        "Defense": "95",
+        "Sp Atk": "70",
+        "Sp. Def": "90",
+        "Speed": "70",
+        "Type": [
+            "Water",
+            "Fighting"
+        ],
+        "Height": "1.3",
+        "Weight": "54"
+    },
+    "Abra": {
+        "HP": "25",
+        "Attack": "20",
+        "Defense": "15",
+        "Sp Atk": "105",
+        "Sp. Def": "55",
+        "Speed": "90",
+        "Type": [
+            "Psychic"
+        ],
+        "Height": "0.9",
+        "Weight": "19"
+    },
+    "Kadabra": {
+        "HP": "40",
+        "Attack": "35",
+        "Defense": "30",
+        "Sp Atk": "120",
+        "Sp. Def": "70",
+        "Speed": "105",
+        "Type": [
+            "Psychic"
+        ],
+        "Height": "1.3",
+        "Weight": "56"
+    },
+    "Alakazam": {
+        "HP": "55",
+        "Attack": "50",
+        "Defense": "45",
+        "Sp Atk": "135",
+        "Sp. Def": "95",
+        "Speed": "120",
+        "Type": [
+            "Psychic"
+        ],
+        "Height": "1.5",
+        "Weight": "48"
+    },
+    "Machop": {
+        "HP": "70",
+        "Attack": "80",
+        "Defense": "50",
+        "Sp Atk": "35",
+        "Sp. Def": "35",
+        "Speed": "35",
+        "Type": [
+            "Fighting"
+        ],
+        "Height": "0.8",
+        "Weight": "19"
+    },
+    "Machoke": {
+        "HP": "80",
+        "Attack": "100",
+        "Defense": "70",
+        "Sp Atk": "50",
+        "Sp. Def": "60",
+        "Speed": "45",
+        "Type": [
+            "Fighting"
+        ],
+        "Height": "1.5",
+        "Weight": "70"
+    },
+    "Machamp": {
+        "HP": "90",
+        "Attack": "130",
+        "Defense": "80",
+        "Sp Atk": "65",
+        "Sp. Def": "85",
+        "Speed": "55",
+        "Type": [
+            "Fighting"
+        ],
+        "Height": "1.6",
+        "Weight": "130"
+    },
+    "Bellsprout": {
+        "HP": "50",
+        "Attack": "75",
+        "Defense": "35",
+        "Sp Atk": "70",
+        "Sp. Def": "30",
+        "Speed": "40",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "0.7",
+        "Weight": "4"
+    },
+    "Weepinbell": {
+        "HP": "65",
+        "Attack": "90",
+        "Defense": "50",
+        "Sp Atk": "85",
+        "Sp. Def": "45",
+        "Speed": "55",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "1.0",
+        "Weight": "6"
+    },
+    "Victreebel": {
+        "HP": "80",
+        "Attack": "105",
+        "Defense": "65",
+        "Sp Atk": "100",
+        "Sp. Def": "70",
+        "Speed": "70",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "Height": "1.7",
+        "Weight": "15"
+    },
+    "Tentacool": {
+        "HP": "40",
+        "Attack": "40",
+        "Defense": "35",
+        "Sp Atk": "50",
+        "Sp. Def": "100",
+        "Speed": "70",
+        "Type": [
+            "Water",
+            "Poison"
+        ],
+        "Height": "0.9",
+        "Weight": "45"
+    },
+    "Tentacruel": {
+        "HP": "80",
+        "Attack": "70",
+        "Defense": "65",
+        "Sp Atk": "80",
+        "Sp. Def": "120",
+        "Speed": "100",
+        "Type": [
+            "Water",
+            "Poison"
+        ],
+        "Height": "1.6",
+        "Weight": "55"
+    },
+    "Geodude": {
+        "HP": "40",
+        "Attack": "80",
+        "Defense": "100",
+        "Sp Atk": "30",
+        "Sp. Def": "30",
+        "Speed": "20",
+        "Type": [
+            "Rock",
+            "Ground"
+        ],
+        "Height": "0.4",
+        "Weight": "20"
+    },
+    "Graveler": {
+        "HP": "55",
+        "Attack": "95",
+        "Defense": "115",
+        "Sp Atk": "45",
+        "Sp. Def": "45",
+        "Speed": "35",
+        "Type": [
+            "Rock",
+            "Ground"
+        ],
+        "Height": "1.0",
+        "Weight": "105"
+    },
+    "Golem": {
+        "HP": "80",
+        "Attack": "120",
+        "Defense": "130",
+        "Sp Atk": "55",
+        "Sp. Def": "65",
+        "Speed": "45",
+        "Type": [
+            "Rock",
+            "Ground"
+        ],
+        "Height": "1.4",
+        "Weight": "300"
+    },
+    "Ponyta": {
+        "HP": "50",
+        "Attack": "85",
+        "Defense": "55",
+        "Sp Atk": "65",
+        "Sp. Def": "65",
+        "Speed": "90",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "1.0",
+        "Weight": "30"
+    },
+    "Rapidash": {
+        "HP": "65",
+        "Attack": "100",
+        "Defense": "70",
+        "Sp Atk": "80",
+        "Sp. Def": "80",
+        "Speed": "105",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "1.7",
+        "Weight": "95"
+    },
+    "Slowpoke": {
+        "HP": "90",
+        "Attack": "65",
+        "Defense": "65",
+        "Sp Atk": "40",
+        "Sp. Def": "40",
+        "Speed": "15",
+        "Type": [
+            "Water",
+            "Psychic"
+        ],
+        "Height": "1.2",
+        "Weight": "36"
+    },
+    "Slowbro": {
+        "HP": "95",
+        "Attack": "75",
+        "Defense": "110",
+        "Sp Atk": "100",
+        "Sp. Def": "80",
+        "Speed": "30",
+        "Type": [
+            "Water",
+            "Psychic"
+        ],
+        "Height": "1.6",
+        "Weight": "78"
+    },
+    "Magnemite": {
+        "HP": "25",
+        "Attack": "35",
+        "Defense": "70",
+        "Sp Atk": "95",
+        "Sp. Def": "55",
+        "Speed": "45",
+        "Type": [
+            "Electric",
+            "Steel"
+        ],
+        "Height": "0.3",
+        "Weight": "6"
+    },
+    "Magneton": {
+        "HP": "50",
+        "Attack": "60",
+        "Defense": "95",
+        "Sp Atk": "120",
+        "Sp. Def": "70",
+        "Speed": "70",
+        "Type": [
+            "Electric",
+            "Steel"
+        ],
+        "Height": "1.0",
+        "Weight": "60"
+    },
+    "Farfetch'd": {
+        "HP": "52",
+        "Attack": "90",
+        "Defense": "55",
+        "Sp Atk": "58",
+        "Sp. Def": "62",
+        "Speed": "60",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "0.8",
+        "Weight": "15"
+    },
+    "Doduo": {
+        "HP": "35",
+        "Attack": "85",
+        "Defense": "45",
+        "Sp Atk": "35",
+        "Sp. Def": "35",
+        "Speed": "75",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "1.4",
+        "Weight": "39"
+    },
+    "Dodrio": {
+        "HP": "60",
+        "Attack": "110",
+        "Defense": "70",
+        "Sp Atk": "60",
+        "Sp. Def": "60",
+        "Speed": "110",
+        "Type": [
+            "Normal",
+            "Flying"
+        ],
+        "Height": "1.8",
+        "Weight": "85"
+    },
+    "Seel": {
+        "HP": "65",
+        "Attack": "45",
+        "Defense": "55",
+        "Sp Atk": "45",
+        "Sp. Def": "70",
+        "Speed": "45",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.1",
+        "Weight": "90"
+    },
+    "Dewgong": {
+        "HP": "90",
+        "Attack": "70",
+        "Defense": "80",
+        "Sp Atk": "70",
+        "Sp. Def": "95",
+        "Speed": "70",
+        "Type": [
+            "Water",
+            "Ice"
+        ],
+        "Height": "1.7",
+        "Weight": "120"
+    },
+    "Grimer": {
+        "HP": "80",
+        "Attack": "80",
+        "Defense": "50",
+        "Sp Atk": "40",
+        "Sp. Def": "50",
+        "Speed": "25",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "0.9",
+        "Weight": "30"
+    },
+    "Muk": {
+        "HP": "105",
+        "Attack": "105",
+        "Defense": "75",
+        "Sp Atk": "65",
+        "Sp. Def": "100",
+        "Speed": "50",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "1.2",
+        "Weight": "30"
+    },
+    "Shellder": {
+        "HP": "30",
+        "Attack": "65",
+        "Defense": "100",
+        "Sp Atk": "45",
+        "Sp. Def": "25",
+        "Speed": "40",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.3",
+        "Weight": "4"
+    },
+    "Cloyster": {
+        "HP": "50",
+        "Attack": "95",
+        "Defense": "180",
+        "Sp Atk": "85",
+        "Sp. Def": "45",
+        "Speed": "70",
+        "Type": [
+            "Water",
+            "Ice"
+        ],
+        "Height": "1.5",
+        "Weight": "132"
+    },
+    "Gastly": {
+        "HP": "30",
+        "Attack": "35",
+        "Defense": "30",
+        "Sp Atk": "100",
+        "Sp. Def": "35",
+        "Speed": "80",
+        "Type": [
+            "Ghost",
+            "Poison"
+        ],
+        "Height": "1.3",
+        "Weight": "0"
+    },
+    "Haunter": {
+        "HP": "45",
+        "Attack": "50",
+        "Defense": "45",
+        "Sp Atk": "115",
+        "Sp. Def": "55",
+        "Speed": "95",
+        "Type": [
+            "Ghost",
+            "Poison"
+        ],
+        "Height": "1.6",
+        "Weight": "0"
+    },
+    "Gengar": {
+        "HP": "60",
+        "Attack": "65",
+        "Defense": "60",
+        "Sp Atk": "130",
+        "Sp. Def": "75",
+        "Speed": "110",
+        "Type": [
+            "Ghost",
+            "Poison"
+        ],
+        "Height": "1.5",
+        "Weight": "40"
+    },
+    "Onix": {
+        "HP": "35",
+        "Attack": "45",
+        "Defense": "160",
+        "Sp Atk": "30",
+        "Sp. Def": "45",
+        "Speed": "70",
+        "Type": [
+            "Rock",
+            "Ground"
+        ],
+        "Height": "8.8",
+        "Weight": "210"
+    },
+    "Drowzee": {
+        "HP": "60",
+        "Attack": "48",
+        "Defense": "45",
+        "Sp Atk": "43",
+        "Sp. Def": "90",
+        "Speed": "42",
+        "Type": [
+            "Psychic"
+        ],
+        "Height": "1.0",
+        "Weight": "32"
+    },
+    "Hypno": {
+        "HP": "85",
+        "Attack": "73",
+        "Defense": "70",
+        "Sp Atk": "73",
+        "Sp. Def": "115",
+        "Speed": "67",
+        "Type": [
+            "Psychic"
+        ],
+        "Height": "1.6",
+        "Weight": "75"
+    },
+    "Krabby": {
+        "HP": "30",
+        "Attack": "105",
+        "Defense": "90",
+        "Sp Atk": "25",
+        "Sp. Def": "25",
+        "Speed": "50",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.4",
+        "Weight": "6"
+    },
+    "Kingler": {
+        "HP": "55",
+        "Attack": "130",
+        "Defense": "115",
+        "Sp Atk": "50",
+        "Sp. Def": "50",
+        "Speed": "75",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.3",
+        "Weight": "60"
+    },
+    "Voltorb": {
+        "HP": "40",
+        "Attack": "30",
+        "Defense": "50",
+        "Sp Atk": "55",
+        "Sp. Def": "55",
+        "Speed": "100",
+        "Type": [
+            "Electric"
+        ],
+        "Height": "0.5",
+        "Weight": "10"
+    },
+    "Electrode": {
+        "HP": "60",
+        "Attack": "50",
+        "Defense": "70",
+        "Sp Atk": "80",
+        "Sp. Def": "80",
+        "Speed": "150",
+        "Type": [
+            "Electric"
+        ],
+        "Height": "1.2",
+        "Weight": "66"
+    },
+    "Exeggcute": {
+        "HP": "60",
+        "Attack": "40",
+        "Defense": "80",
+        "Sp Atk": "60",
+        "Sp. Def": "45",
+        "Speed": "40",
+        "Type": [
+            "Grass",
+            "Psychic"
+        ],
+        "Height": "0.4",
+        "Weight": "2"
+    },
+    "Exeggutor": {
+        "HP": "95",
+        "Attack": "95",
+        "Defense": "85",
+        "Sp Atk": "125",
+        "Sp. Def": "75",
+        "Speed": "55",
+        "Type": [
+            "Grass",
+            "Psychic"
+        ],
+        "Height": "2.0",
+        "Weight": "120"
+    },
+    "Cubone": {
+        "HP": "50",
+        "Attack": "50",
+        "Defense": "95",
+        "Sp Atk": "40",
+        "Sp. Def": "50",
+        "Speed": "35",
+        "Type": [
+            "Ground"
+        ],
+        "Height": "0.4",
+        "Weight": "6"
+    },
+    "Marowak": {
+        "HP": "60",
+        "Attack": "80",
+        "Defense": "110",
+        "Sp Atk": "50",
+        "Sp. Def": "80",
+        "Speed": "45",
+        "Type": [
+            "Ground"
+        ],
+        "Height": "1.0",
+        "Weight": "45"
+    },
+    "Hitmonlee": {
+        "HP": "50",
+        "Attack": "120",
+        "Defense": "53",
+        "Sp Atk": "35",
+        "Sp. Def": "110",
+        "Speed": "87",
+        "Type": [
+            "Fighting"
+        ],
+        "Height": "1.5",
+        "Weight": "49"
+    },
+    "Hitmonchan": {
+        "HP": "50",
+        "Attack": "105",
+        "Defense": "79",
+        "Sp Atk": "35",
+        "Sp. Def": "110",
+        "Speed": "76",
+        "Type": [
+            "Fighting"
+        ],
+        "Height": "1.4",
+        "Weight": "50"
+    },
+    "Lickitung": {
+        "HP": "90",
+        "Attack": "55",
+        "Defense": "75",
+        "Sp Atk": "60",
+        "Sp. Def": "75",
+        "Speed": "30",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "1.2",
+        "Weight": "65"
+    },
+    "Koffing": {
+        "HP": "40",
+        "Attack": "65",
+        "Defense": "95",
+        "Sp Atk": "60",
+        "Sp. Def": "45",
+        "Speed": "35",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "0.6",
+        "Weight": "1"
+    },
+    "Weezing": {
+        "HP": "65",
+        "Attack": "90",
+        "Defense": "120",
+        "Sp Atk": "85",
+        "Sp. Def": "70",
+        "Speed": "60",
+        "Type": [
+            "Poison"
+        ],
+        "Height": "1.2",
+        "Weight": "9"
+    },
+    "Rhyhorn": {
+        "HP": "80",
+        "Attack": "85",
+        "Defense": "95",
+        "Sp Atk": "30",
+        "Sp. Def": "30",
+        "Speed": "25",
+        "Type": [
+            "Ground",
+            "Rock"
+        ],
+        "Height": "1.0",
+        "Weight": "115"
+    },
+    "Rhydon": {
+        "HP": "105",
+        "Attack": "130",
+        "Defense": "120",
+        "Sp Atk": "45",
+        "Sp. Def": "45",
+        "Speed": "40",
+        "Type": [
+            "Ground",
+            "Rock"
+        ],
+        "Height": "1.9",
+        "Weight": "120"
+    },
+    "Chansey": {
+        "HP": "250",
+        "Attack": "5",
+        "Defense": "5",
+        "Sp Atk": "35",
+        "Sp. Def": "105",
+        "Speed": "50",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "1.1",
+        "Weight": "34"
+    },
+    "Tangela": {
+        "HP": "65",
+        "Attack": "55",
+        "Defense": "115",
+        "Sp Atk": "100",
+        "Sp. Def": "40",
+        "Speed": "60",
+        "Type": [
+            "Grass"
+        ],
+        "Height": "1.0",
+        "Weight": "35"
+    },
+    "Kangaskhan": {
+        "HP": "105",
+        "Attack": "95",
+        "Defense": "80",
+        "Sp Atk": "40",
+        "Sp. Def": "80",
+        "Speed": "90",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "2.2",
+        "Weight": "80"
+    },
+    "Horsea": {
+        "HP": "30",
+        "Attack": "40",
+        "Defense": "70",
+        "Sp Atk": "70",
+        "Sp. Def": "25",
+        "Speed": "60",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.4",
+        "Weight": "8"
+    },
+    "Seadra": {
+        "HP": "55",
+        "Attack": "65",
+        "Defense": "95",
+        "Sp Atk": "95",
+        "Sp. Def": "45",
+        "Speed": "85",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.2",
+        "Weight": "25"
+    },
+    "Goldeen": {
+        "HP": "45",
+        "Attack": "67",
+        "Defense": "60",
+        "Sp Atk": "35",
+        "Sp. Def": "50",
+        "Speed": "63",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.6",
+        "Weight": "15"
+    },
+    "Seaking": {
+        "HP": "80",
+        "Attack": "92",
+        "Defense": "65",
+        "Sp Atk": "65",
+        "Sp. Def": "80",
+        "Speed": "68",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.3",
+        "Weight": "39"
+    },
+    "Staryu": {
+        "HP": "30",
+        "Attack": "45",
+        "Defense": "55",
+        "Sp Atk": "70",
+        "Sp. Def": "55",
+        "Speed": "85",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.8",
+        "Weight": "34"
+    },
+    "Starmie": {
+        "HP": "60",
+        "Attack": "75",
+        "Defense": "85",
+        "Sp Atk": "100",
+        "Sp. Def": "85",
+        "Speed": "115",
+        "Type": [
+            "Water",
+            "Psychic"
+        ],
+        "Height": "1.1",
+        "Weight": "80"
+    },
+    "Mr. Mime": {
+        "HP": "40",
+        "Attack": "45",
+        "Defense": "65",
+        "Sp Atk": "100",
+        "Sp. Def": "120",
+        "Speed": "90",
+        "Type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "Height": "1.3",
+        "Weight": "54"
+    },
+    "Scyther": {
+        "HP": "70",
+        "Attack": "110",
+        "Defense": "80",
+        "Sp Atk": "55",
+        "Sp. Def": "80",
+        "Speed": "105",
+        "Type": [
+            "Bug",
+            "Flying"
+        ],
+        "Height": "1.5",
+        "Weight": "56"
+    },
+    "Jynx": {
+        "HP": "65",
+        "Attack": "50",
+        "Defense": "35",
+        "Sp Atk": "115",
+        "Sp. Def": "95",
+        "Speed": "95",
+        "Type": [
+            "Ice",
+            "Psychic"
+        ],
+        "Height": "1.4",
+        "Weight": "40"
+    },
+    "Electabuzz": {
+        "HP": "65",
+        "Attack": "83",
+        "Defense": "57",
+        "Sp Atk": "95",
+        "Sp. Def": "85",
+        "Speed": "105",
+        "Type": [
+            "Electric"
+        ],
+        "Height": "1.1",
+        "Weight": "30"
+    },
+    "Magmar": {
+        "HP": "65",
+        "Attack": "95",
+        "Defense": "57",
+        "Sp Atk": "100",
+        "Sp. Def": "85",
+        "Speed": "93",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "1.3",
+        "Weight": "44"
+    },
+    "Pinsir": {
+        "HP": "65",
+        "Attack": "125",
+        "Defense": "100",
+        "Sp Atk": "55",
+        "Sp. Def": "70",
+        "Speed": "85",
+        "Type": [
+            "Bug"
+        ],
+        "Height": "1.5",
+        "Weight": "55"
+    },
+    "Tauros": {
+        "HP": "75",
+        "Attack": "100",
+        "Defense": "95",
+        "Sp Atk": "40",
+        "Sp. Def": "70",
+        "Speed": "110",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "1.4",
+        "Weight": "88"
+    },
+    "Magikarp": {
+        "HP": "20",
+        "Attack": "10",
+        "Defense": "55",
+        "Sp Atk": "15",
+        "Sp. Def": "20",
+        "Speed": "80",
+        "Type": [
+            "Water"
+        ],
+        "Height": "0.9",
+        "Weight": "10"
+    },
+    "Gyarados": {
+        "HP": "95",
+        "Attack": "125",
+        "Defense": "79",
+        "Sp Atk": "60",
+        "Sp. Def": "100",
+        "Speed": "81",
+        "Type": [
+            "Water",
+            "Flying"
+        ],
+        "Height": "6.5",
+        "Weight": "235"
+    },
+    "Lapras": {
+        "HP": "130",
+        "Attack": "85",
+        "Defense": "80",
+        "Sp Atk": "85",
+        "Sp. Def": "95",
+        "Speed": "60",
+        "Type": [
+            "Water",
+            "Ice"
+        ],
+        "Height": "2.5",
+        "Weight": "220"
+    },
+    "Ditto": {
+        "HP": "48",
+        "Attack": "48",
+        "Defense": "48",
+        "Sp Atk": "48",
+        "Sp. Def": "48",
+        "Speed": "48",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "0.3",
+        "Weight": "4"
+    },
+    "Eevee": {
+        "HP": "55",
+        "Attack": "55",
+        "Defense": "50",
+        "Sp Atk": "45",
+        "Sp. Def": "65",
+        "Speed": "55",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "0.3",
+        "Weight": "6"
+    },
+    "Vaporeon": {
+        "HP": "130",
+        "Attack": "65",
+        "Defense": "60",
+        "Sp Atk": "110",
+        "Sp. Def": "95",
+        "Speed": "65",
+        "Type": [
+            "Water"
+        ],
+        "Height": "1.0",
+        "Weight": "29"
+    },
+    "Jolteon": {
+        "HP": "65",
+        "Attack": "65",
+        "Defense": "60",
+        "Sp Atk": "110",
+        "Sp. Def": "95",
+        "Speed": "130",
+        "Type": [
+            "Electric"
+        ],
+        "Height": "0.8",
+        "Weight": "24"
+    },
+    "Flareon": {
+        "HP": "65",
+        "Attack": "130",
+        "Defense": "60",
+        "Sp Atk": "95",
+        "Sp. Def": "110",
+        "Speed": "65",
+        "Type": [
+            "Fire"
+        ],
+        "Height": "0.9",
+        "Weight": "25"
+    },
+    "Porygon": {
+        "HP": "65",
+        "Attack": "60",
+        "Defense": "70",
+        "Sp Atk": "85",
+        "Sp. Def": "75",
+        "Speed": "40",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "0.8",
+        "Weight": "36"
+    },
+    "Omanyte": {
+        "HP": "35",
+        "Attack": "40",
+        "Defense": "100",
+        "Sp Atk": "90",
+        "Sp. Def": "55",
+        "Speed": "35",
+        "Type": [
+            "Rock",
+            "Water"
+        ],
+        "Height": "0.4",
+        "Weight": "7"
+    },
+    "Omastar": {
+        "HP": "70",
+        "Attack": "60",
+        "Defense": "125",
+        "Sp Atk": "115",
+        "Sp. Def": "70",
+        "Speed": "55",
+        "Type": [
+            "Rock",
+            "Water"
+        ],
+        "Height": "1.0",
+        "Weight": "35"
+    },
+    "Kabuto": {
+        "HP": "30",
+        "Attack": "80",
+        "Defense": "90",
+        "Sp Atk": "55",
+        "Sp. Def": "45",
+        "Speed": "55",
+        "Type": [
+            "Rock",
+            "Water"
+        ],
+        "Height": "0.5",
+        "Weight": "11"
+    },
+    "Kabutops": {
+        "HP": "60",
+        "Attack": "115",
+        "Defense": "105",
+        "Sp Atk": "65",
+        "Sp. Def": "70",
+        "Speed": "80",
+        "Type": [
+            "Rock",
+            "Water"
+        ],
+        "Height": "1.3",
+        "Weight": "40"
+    },
+    "Aerodactyl": {
+        "HP": "80",
+        "Attack": "105",
+        "Defense": "65",
+        "Sp Atk": "60",
+        "Sp. Def": "75",
+        "Speed": "130",
+        "Type": [
+            "Rock",
+            "Flying"
+        ],
+        "Height": "1.8",
+        "Weight": "59"
+    },
+    "Snorlax": {
+        "HP": "160",
+        "Attack": "110",
+        "Defense": "65",
+        "Sp Atk": "65",
+        "Sp. Def": "110",
+        "Speed": "30",
+        "Type": [
+            "Normal"
+        ],
+        "Height": "2.1",
+        "Weight": "460"
+    },
+    "Articuno": {
+        "HP": "90",
+        "Attack": "85",
+        "Defense": "100",
+        "Sp Atk": "95",
+        "Sp. Def": "125",
+        "Speed": "85",
+        "Type": [
+            "Ice",
+            "Flying"
+        ],
+        "Height": "1.7",
+        "Weight": "55"
+    },
+    "Zapdos": {
+        "HP": "90",
+        "Attack": "90",
+        "Defense": "85",
+        "Sp Atk": "125",
+        "Sp. Def": "90",
+        "Speed": "100",
+        "Type": [
+            "Electric",
+            "Flying"
+        ],
+        "Height": "1.6",
+        "Weight": "52"
+    },
+    "Moltres": {
+        "HP": "90",
+        "Attack": "100",
+        "Defense": "90",
+        "Sp Atk": "125",
+        "Sp. Def": "85",
+        "Speed": "90",
+        "Type": [
+            "Fire",
+            "Flying"
+        ],
+        "Height": "2.0",
+        "Weight": "60"
+    },
+    "Dratini": {
+        "HP": "41",
+        "Attack": "64",
+        "Defense": "45",
+        "Sp Atk": "50",
+        "Sp. Def": "50",
+        "Speed": "50",
+        "Type": [
+            "Dragon"
+        ],
+        "Height": "1.8",
+        "Weight": "3"
+    },
+    "Dragonair": {
+        "HP": "61",
+        "Attack": "84",
+        "Defense": "65",
+        "Sp Atk": "70",
+        "Sp. Def": "70",
+        "Speed": "70",
+        "Type": [
+            "Dragon"
+        ],
+        "Height": "4.0",
+        "Weight": "16"
+    },
+    "Dragonite": {
+        "HP": "91",
+        "Attack": "134",
+        "Defense": "95",
+        "Sp Atk": "100",
+        "Sp. Def": "100",
+        "Speed": "80",
+        "Type": [
+            "Dragon",
+            "Flying"
+        ],
+        "Height": "2.2",
+        "Weight": "210"
+    },
+    "Mewtwo": {
+        "HP": "106",
+        "Attack": "110",
+        "Defense": "90",
+        "Sp Atk": "154",
+        "Sp. Def": "90",
+        "Speed": "130",
+        "Type": [
+            "Psychic"
+        ],
+        "Height": "2.0",
+        "Weight": "122"
+    },
+    "Mew": {
+        "HP": "100",
+        "Attack": "100",
+        "Defense": "100",
+        "Sp Atk": "100",
+        "Sp. Def": "100",
+        "Speed": "100",
+        "Type": [
+            "Psychic"
+        ],
+        "Height": "0.4",
+        "Weight": "4"
+    }
+}
